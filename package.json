@@ -1,11 +1,22 @@
 {
+<<<<<<< HEAD
   "name": "@huhuang03/js_ex",
   "version": "0.0.5",
   "description": "js extensions",
   "main": "index.js",
+=======
+  "name": "@huhuang03/th_comm",
+  "version": "0.0.1",
+  "description": "js common utils",
+  "main": "lib/index.js",
+>>>>>>> 694d7c9cbe9e70310d66fe0142b85d64e34aabbd
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
 }

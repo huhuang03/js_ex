@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 .vscode/
+=======
+.idea/
+build/
+lib/
+
+yarn-error.log
+
+node_modules/
+>>>>>>> 694d7c9cbe9e70310d66fe0142b85d64e34aabbd
